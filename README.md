@@ -1,6 +1,6 @@
 # Git Search
 
-A simple app that allows you to discover, search and explore the best software engineers on Github.
+A simple app that allows you to discover, search and explore the best software engineers on Github. To preview the app visit https://aarondo.github.io/
 
 ## To install Git Search
 
