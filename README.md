@@ -15,10 +15,11 @@ Once installed enter the following command to get it up and running
 npm run serve
 ```
 
-### Tests
+### Testing
 To run the tests enter the command below
 ```
 npm run test:unit
 ```
+
 
 
